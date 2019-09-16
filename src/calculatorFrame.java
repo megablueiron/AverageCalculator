@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Michael Botros
+ * September 16th 2019
+ * This program uses a UI to calculate your average mark from 4 different courses.
  */
 
 /**
